@@ -5,7 +5,7 @@
 A high-fidelity, industrial-minimalist landing page for **Hydro Link**, the next generation of smart hydration. This project features a cinematic design, smooth scroll-driven animations, a real-time HUD (Heads-Up Display) for specifications, and a unique collaboration with the world of **AVATAR**.
 
 ## 🚀 Live Demo
-Experience the site here: **[https://hirunapehelitha.github.io/hydro-link/](https://hirunapehelitha.github.io/hydro-link/)**
+Experience the site here: **[https://hirunapehelitha.github.io/HydroLink/](https://hirunapehelitha.github.io/HydroLink/)**
 
 ## ✨ Key Features
 - **Cinematic UI**: Premium dark-mode aesthetic with vibrant lime accents.
